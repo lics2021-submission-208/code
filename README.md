@@ -1,3 +1,7 @@
+# This Repository Has Moved
+
+Please go to [github.com/statusfailed/numeric-optics-python](https://github.com/statusfailed/numeric-optics-python)
+
 # Numeric Optics
 
 A python library for constructing and training neural networks based on lenses
